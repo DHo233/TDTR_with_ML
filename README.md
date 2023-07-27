@@ -13,3 +13,4 @@ It is the first project of my study of Machine Learning, it includes:
 
 ## Process of project
 Other files including `ProjectApproval.pdf``InterimReport.pdf` and so on are the recording of the process of our project. 
+Because the seminar slides are not complete, you can refer to [my blog](https://www.cnblogs.com/Hexh/), there are some logs when I was doing this project and other projects.
